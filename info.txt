@@ -1,0 +1,7 @@
+{
+  "urll": "http://jiotv.be/stalker_portal/c/",
+  "mac": "00:1A:79:03:60:4C",
+  "url_token": "",
+  "token": "",
+  "loop": ""
+}
